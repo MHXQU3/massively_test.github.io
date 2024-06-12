@@ -1,0 +1,48 @@
+// In style.scss
+
+// Import base partials
+@import 'assets/sass/base/_page.scss';
+@import 'assets/sass/base/_reset.scss';
+@import 'assets/sass/base/_typography.scss';
+
+// Import component partials
+@import 'assets/sass/components/_actions.scss';
+@import 'assets/sass/components/_box.scss';
+@import 'assets/sass/components/_button.scss';
+@import 'assets/sass/components/_form.scss';
+@import 'assets/sass/components/_icon.scss';
+@import 'assets/sass/components/_icons.scss';
+@import 'assets/sass/components/_image.scss';
+@import 'assets/sass/components/_list.scss';
+@import 'assets/sass/components/_pagination.scss';
+@import 'assets/sass/components/_row.scss';
+@import 'assets/sass/components/_section.scss';
+@import 'assets/sass/components/_table.scss';
+
+// Import layout partials
+@import 'assets/sass/layout/_footer.scss';
+@import 'assets/sass/layout/_header.scss';
+@import 'assets/sass/layout/_intro.scss';
+@import 'assets/sass/layout/_main.scss';
+@import 'assets/sass/layout/_nav.scss';
+@import 'assets/sass/layout/_navPanel.scss';
+@import 'assets/sass/layout/_wrapper.scss';
+
+// Import libs partials
+@import 'assets/sass/libs/_breakpoints.scss';
+@import 'assets/sass/libs/_fixed-grid.scss';
+@import 'assets/sass/libs/_functions.scss';
+@import 'assets/sass/libs/_html-grid.scss';
+@import 'assets/sass/libs/_mixins.scss';
+@import 'assets/sass/libs/_vars.scss';
+@import 'assets/sass/libs/_vendor.scss';
+
+// Import main styles
+@import 'assets/sass/main.scss';
+@import 'assets/sass/noscript.scss';
+
+
+
+
+
+
